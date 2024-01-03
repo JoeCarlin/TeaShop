@@ -1,0 +1,15 @@
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/bin/Debug/net7.0/CarlinProject1
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/bin/Debug/net7.0/CarlinProject1.deps.json
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/bin/Debug/net7.0/CarlinProject1.runtimeconfig.json
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/bin/Debug/net7.0/CarlinProject1.dll
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/bin/Debug/net7.0/CarlinProject1.pdb
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/CarlinProject1.csproj.AssemblyReference.cache
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/CarlinProject1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/CarlinProject1.AssemblyInfoInputs.cache
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/CarlinProject1.AssemblyInfo.cs
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/CarlinProject1.csproj.CoreCompileInputs.cache
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/CarlinProject1.dll
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/refint/CarlinProject1.dll
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/CarlinProject1.pdb
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/CarlinProject1.genruntimeconfig.cache
+/Users/joecarlin30/Desktop/work/Programming/C#/Assignments/CarlinProject1/CarlinProject1/obj/Debug/net7.0/ref/CarlinProject1.dll
